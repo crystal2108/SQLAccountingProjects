@@ -27,3 +27,6 @@ Part Two (a): Query General Ledger (G/L) transactions not in Subledger.
 Part Two (b): Assign an amount.
 
 Part Three (a): Query Subledger transactions not in G/L.
+
+Check out my code here:
+[AutomatingReconciliations.txt](https://github.com/crystal2108/AccountingProjects/files/7402171/AutomatingReconciliations.txt)
