@@ -1,4 +1,4 @@
-# AutomatingReconciliations
+# Automating Reconciliations
 SQL is a great way to automate your reconciliations and relieve your Finance team of tedious, manual tasks. If you've ever tried to reconcile a subledger to the general ledger,
 you know how time consuming it can be! The worst part is trying to identify what's off within sometimes tens of thousands of lines.  SQL can be a tremendous help in accomplishing 
 this task.  I've put together a project below to show you how you can do this at your company to save yourself some time and effort.  Although, the table names and layouts will
