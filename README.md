@@ -101,5 +101,6 @@ SELECT
 
 [G_L Account No] = 'Review'
 
-Click here to see the full query! [AutomatingReconciliations.txt](https://github.com/crystal2108/AccountingProjects/files/7406165/AutomatingReconciliations.txt)
+Click here to see the full query! [AutomatingReconciliations.txt](https://github.com/crystal2108/AccountingProjects/files/7406176/AutomatingReconciliations.txt)
+
 
