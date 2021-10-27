@@ -99,8 +99,10 @@ For example, say we want to pull in the general ledger account from the chart of
 
 SELECT
 
-[G_L Account No] = 'Review'
+[G_L Account No] = 'Review' -- Created column: G/L accounts are not assigned to subledger transactions.
 
-Click here to see the full query! [AutomatingReconciliations.txt](https://github.com/crystal2108/SQLAccountingProjects/files/7406206/AutomatingReconciliations.txt)
+Please note that all table names have been changed and generalized to maintain confidentiality.  Check out the link below for the full query!
+
+Click here to see the code! [AutomatingReconciliations.txt](https://github.com/crystal2108/SQLAccountingProjects/files/7406206/AutomatingReconciliations.txt)
 
 
